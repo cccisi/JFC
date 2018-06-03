@@ -7,6 +7,6 @@ Practice on JFC (Java)
 
 ## 功能演示
 - *这是饼状图*
-- <img src="https://github.com/cccisi/JFC/doc/Pie.jpg" width = "550" height = "400" alt="Pie" align=center />
+- <img src="https://github.com/cccisi/JFC/blob/master/doc/Pie.JPG" width = "550" height = "400" alt="Pie" align=center />
 - *这是柱状图*
-- <img src="https://github.com/cccisi/JFC/doc/Bar.jpg" width = "550" height = "400" alt="Pie" align=center />
+- <img src="https://github.com/cccisi/JFC/blob/master/doc/Bar.JPG" width = "550" height = "400" alt="Pie" align=center />
